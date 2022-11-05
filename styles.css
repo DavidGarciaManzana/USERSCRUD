@@ -1,0 +1,8 @@
+.father {
+    display: flex;
+    font-size: 2rem;
+    border: 2px solid black;
+}
+.father > p {
+    margin:1rem;
+}
