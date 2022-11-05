@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BrianDavidGarciaManz\\Downloads\\USERSCRUD-master\\USERSCRUD-master\\SmallAPI\\examen_backend_DAVID_GARCIA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BrianDavidGarciaManz\\Downloads\\USERSCRUD-master\\USERSCRUD-master\\SmallAPI\\examen_backend_DAVID_GARCIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BrianDavidGarciaManz\\Downloads\\USERSCRUD-master\\USERSCRUD-master\\SmallAPI\\examen_backend_DAVID_GARCIA.csproj",
+        "projectName": "examen_backend_DAVID_GARCIA",
+        "projectPath": "C:\\Users\\BrianDavidGarciaManz\\Downloads\\USERSCRUD-master\\USERSCRUD-master\\SmallAPI\\examen_backend_DAVID_GARCIA.csproj",
+        "packagesPath": "C:\\Users\\BrianDavidGarciaManz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BrianDavidGarciaManz\\Downloads\\USERSCRUD-master\\USERSCRUD-master\\SmallAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrianDavidGarciaManz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
